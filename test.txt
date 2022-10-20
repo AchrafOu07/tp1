@@ -1,2 +1,3 @@
 Hello world
 i use git
+git est un logiciel de gestion de versions décentralisé.
